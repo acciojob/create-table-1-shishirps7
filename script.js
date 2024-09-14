@@ -4,8 +4,8 @@ function insert_Row() {
 	let tr=table.insertRow(0);
 	let cell1=tr.insertCell();
 	let cell2=tr.insertCell();
-	cell1.innerText="New Cell 1"
-	cell2.innerText="New Cell 2"
+	cell1.innerText="New Cell1"
+	cell2.innerText="New Cell2"
 	
   
   
